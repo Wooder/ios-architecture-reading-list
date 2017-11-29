@@ -1,8 +1,7 @@
-# ios-architecture-reading-list
-A loose collection of articles about iOS architecture.
+# iOS-architecture-reading-list
+A loose collection of articles about iOS Architecture.
 
-
-## articles about iOS architecture
+## Articles about iOS Architecture
   * [VIPER-Pattern objc.io](https://www.objc.io/issues/13-architecture/vipe)
   * [MVC vs MVVM vs VIPER](https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper/)
   * [A Pro MVC Article](http://aplus.rs/2017/much-ado-about-ios-app-architecture/)
